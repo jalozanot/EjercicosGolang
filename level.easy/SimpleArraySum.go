@@ -15,7 +15,7 @@ func main() {
 		arreglo[i] = valor
 	}
 
-
+	respuesta(arreglo)
 
 }
 
