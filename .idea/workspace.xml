@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a023a393-8e20-4e63-a6d3-69c75e4849bc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level.easy/SimpleArraySum.go" beforeDir="false" afterPath="$PROJECT_DIR$/level.easy/SimpleArraySum.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,18 +45,54 @@
       <recent name="F:\workspace_practica\EjercicosGolang\level.easy" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="go build AVeryBigSum.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build prueba.go">
+    <configuration name="go build BirthdayCakeCandles.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="EjercicosGolang" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/AVeryBigSum.go" />
+      <filePath value="$PROJECT_DIR$/level.easy/BirthdayCakeCandles.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Mini-MaxSum.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="EjercicosGolang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/level.easy/Mini-MaxSum.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Staircase.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="EjercicosGolang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/level.easy/Staircase.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build TimeConversion.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="EjercicosGolang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/level.easy/TimeConversion.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build prueba.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="EjercicosGolang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/prueba.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build AVeryBigSum.go" />
+        <item itemvalue="Go Build.go build prueba.go" />
+        <item itemvalue="Go Build.go build TimeConversion.go" />
+        <item itemvalue="Go Build.go build BirthdayCakeCandles.go" />
+        <item itemvalue="Go Build.go build Mini-MaxSum.go" />
+        <item itemvalue="Go Build.go build Staircase.go" />
       </list>
     </recent_temporary>
   </component>
