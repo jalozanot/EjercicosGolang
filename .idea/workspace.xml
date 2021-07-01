@@ -45,59 +45,95 @@
       <recent name="F:\workspace_practica\EjercicosGolang\level.easy" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build prueba.go">
-    <configuration name="go build BirthdayCakeCandles.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build DayOfTheProgrammer.go">
+    <configuration name="go build BreakingTheRecords.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="EjercicosGolang" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/level.easy/BirthdayCakeCandles.go" />
+      <filePath value="$PROJECT_DIR$/level.easy/BreakingTheRecords.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build Mini-MaxSum.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build DayOfTheProgrammer.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="EjercicosGolang" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/level.easy/Mini-MaxSum.go" />
+      <filePath value="$PROJECT_DIR$/level.easy/DayOfTheProgrammer.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build Staircase.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build DivisibleSumPairs.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="EjercicosGolang" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/level.easy/Staircase.go" />
+      <filePath value="$PROJECT_DIR$/level.easy/DivisibleSumPairs.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build TimeConversion.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build MigratoryBirds.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="EjercicosGolang" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/level.easy/TimeConversion.go" />
+      <filePath value="$PROJECT_DIR$/level.easy/MigratoryBirds.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build prueba.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build SubarrayDivision.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="EjercicosGolang" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/prueba.go" />
+      <filePath value="$PROJECT_DIR$/level.easy/SubarrayDivision.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build prueba.go" />
-        <item itemvalue="Go Build.go build TimeConversion.go" />
-        <item itemvalue="Go Build.go build BirthdayCakeCandles.go" />
-        <item itemvalue="Go Build.go build Mini-MaxSum.go" />
-        <item itemvalue="Go Build.go build Staircase.go" />
+        <item itemvalue="Go Build.go build DayOfTheProgrammer.go" />
+        <item itemvalue="Go Build.go build MigratoryBirds.go" />
+        <item itemvalue="Go Build.go build DivisibleSumPairs.go" />
+        <item itemvalue="Go Build.go build SubarrayDivision.go" />
+        <item itemvalue="Go Build.go build BreakingTheRecords.go" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/level.easy/GradingStudents.go</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/level.easy/BreakingTheRecords.go</url>
+          <line>35</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/level.easy/BreakingTheRecords.go</url>
+          <line>36</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/level.easy/BreakingTheRecords.go</url>
+          <line>27</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/level.easy/MigratoryBirds.go</url>
+          <line>43</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/level.easy/DayOfTheProgrammer.go</url>
+          <line>22</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
